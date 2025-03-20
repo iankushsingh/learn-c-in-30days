@@ -2,6 +2,9 @@
 
 Welcome to my **30-Day C++ Learning Journey**! This repository contains my daily learning roadmap, code snippets, and problem-solving progress.
 
+## Resource : This is 31 Hour video nearly, daily complete approx 1 hr content of it. Along with it Practice daily.
+- https://youtu.be/8jLOx1hD3_o
+
 ## 📌 **Overview**
 I am dedicating **30 days** to learning **C++ from scratch**, covering all essential concepts including **OOP, STL, and problem-solving** to prepare for **Data Structures & Algorithms (DSA)** and **LeetCode challenges**.
 
@@ -71,4 +74,4 @@ I am dedicating **30 days** to learning **C++ from scratch**, covering all essen
 ## 🚀 **Next Steps**
 After completing C++, I will start focusing on **DSA, Competitive Programming, and LeetCode challenges** to strengthen my problem-solving skills. 💪
 
-🔗 **Follow my progress:** [GitHub Profile](https://github.com/your-username)
+🔗 **Follow my progress:** [GitHub Profile](https://github.com/iankushsingh)
