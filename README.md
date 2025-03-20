@@ -2,8 +2,6 @@
 
 Welcome to my **30-Day C++ Learning Journey**! This repository contains my daily learning roadmap, code snippets, and problem-solving progress.
 
-## Resource : This is 31 Hour video nearly, daily complete approx 1 hr content of it. Along with it Practice daily.
-- https://youtu.be/8jLOx1hD3_o
 
 ## 📌 **Overview**
 I am dedicating **30 days** to learning **C++ from scratch**, covering all essential concepts including **OOP, STL, and problem-solving** to prepare for **Data Structures & Algorithms (DSA)** and **LeetCode challenges**.
@@ -54,6 +52,9 @@ I am dedicating **30 days** to learning **C++ from scratch**, covering all essen
 - **Online Courses:** Udemy, Coursera, YouTube (CodeWithHarry, Apna College)
 - **Practice Platforms:** LeetCode, CodeChef, HackerRank
 
+---
+## Youtube Resource : This is 31 Hour video nearly, daily complete approx 1 hr content of it. Along with it Practice daily.
+- https://youtu.be/8jLOx1hD3_o
 ---
 
 ## 🏆 **Goals After 30 Days**
